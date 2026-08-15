@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "owner",
     version: "1.3.0",
-    author: "Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ",
+    author: "亗•𝘔𝘈𝘔𝘜𝘕✿᭄",
     role: 0,
     shortDescription: "Owner information with image",
     category: "Information",
@@ -22,10 +22,10 @@ module.exports = {
 ├───────────────
 │ 👤𝐍𝐚𝐦𝐞 : 𝐌𝐃 𝐇𝐀𝐌𝐈𝐌
 │ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : 𝐌𝐚𝐥𝐞
-│ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐈𝐧 𝐚 [𝐒𝐢𝐧𝐠𝐞𝐥]💝
+│ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐈𝐧 𝐀 𝐎𝐫𝐠𝐢𝐧𝐚𝐥 𝐏𝐮𝐫𝐞 𝐒𝐢𝐧𝐠𝐞𝐥
 │ 🎂 𝐀𝐠𝐞 : 𝟏𝟖+
 │ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : 𝐈𝐬𝐥𝐚𝐦
-│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐇𝐒𝐂 (𝟐𝟎𝟐𝟔)
+│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐒𝐢𝐧𝐠𝐞𝐥 𝐏𝐚𝐬𝐬 (𝟐𝟎𝟐𝟔)
 │ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝐍𝐨𝐚𝐤𝐡𝐚𝐥𝐢 . 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
 └───────────────⭓
 
@@ -43,7 +43,7 @@ module.exports = {
 
     if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
 
-    const imgLink = "https://i.imgur.com/jpycfTa.jpeg";
+    const imgLink = "https://i.imgur.com/Va5BiK3.gif";
 
     const send = () => {
       api.sendMessage(
